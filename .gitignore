@@ -1,2 +1,5 @@
 # Configuración de Visual Studio Code
 .vscode/
+
+# Variables de entorno de APIs
+.env
