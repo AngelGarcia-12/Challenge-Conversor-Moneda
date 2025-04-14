@@ -1,6 +1,9 @@
+import controller.ConversorService;
+
 public class App {
     public static void main(String[] args) throws Exception {
-        ConversorCoin myConversor = new ConversorCoin();
+        // Singlenton pattern
+        ConversorService myConversor = new ConversorService();
         myConversor.startMenu();
     }
 }
