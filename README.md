@@ -48,6 +48,7 @@ Probemos una ultima conversión, ahora de pesos mexicanos a real brasileño.
 ![Conversion mxn to brl](./github/img/github-image7.png)
 
 Ahora veamos todos los valores de las tasas de monedas actuales; 'como muestra una lista amplia solo mostrare algunas para el ejemplo'.
+
 ![Tax Values](./github/img/github-image8.png)
 
 Ahora busquemos algun valor de moneda que queramos, para este ejemplo busquemos el yen; moneda de Japon.
